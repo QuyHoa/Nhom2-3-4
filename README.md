@@ -1,4 +1,9 @@
 # Nhom 2
+K16
+## Thành viên Nhóm
+1. Hoàng Trương Hồng Quyên
+2. Nguyễn Thị Nguyệt
+3. Đỗ Thị Kim Duyên
   
 ## Contributing
 
