@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Slide6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Slide6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",
