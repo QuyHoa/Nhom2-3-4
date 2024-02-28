@@ -28,5 +28,8 @@ public class Switch {
             default:
                 System.out.println("Weekend");
         }
+
+        System.out.println("Q");
     }
+    
 }
