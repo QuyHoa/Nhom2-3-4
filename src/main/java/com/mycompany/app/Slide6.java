@@ -13,6 +13,7 @@ class Number {
     n2.i = 10;// what is n1.i?
 
     System.out.println(n1.i);
+    System.out.println("Nguyet test commit");
 
     }
    }
