@@ -2,16 +2,28 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "TestTime",
             "request": "launch",
             "mainClass": "com.mycompany.app.TestTime",
+=======
+            "name": "While",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.While",
+>>>>>>> dceb1f59932039b680b2b9ec07782e485c2fbfe5
             "projectName": "my-app"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",
+=======
+            "name": "While",
+            "request": "launch",
+            "mainClass": "com.While",
+>>>>>>> dceb1f59932039b680b2b9ec07782e485c2fbfe5
             "projectName": "my-app"
         },
         {
