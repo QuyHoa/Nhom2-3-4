@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestTime",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.TestTime",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",

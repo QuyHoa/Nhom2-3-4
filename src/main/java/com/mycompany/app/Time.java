@@ -1,6 +1,5 @@
 package com.mycompany.app;
 
-//This: refer to the current object and method in the program
 public class Time {
     private int hour;
     private int minute;
@@ -40,7 +39,7 @@ public class Time {
     }
 
     public Time setSecond(int s) {
-        second = ((s >= 0 && s < 60) ? s : 0); // Fixed condition from 24 to 60
+        second = ((s >= 0 && s < 60) ? s : 0);
         return this;
     }
 
@@ -56,21 +55,20 @@ public class Time {
         return second;
     }
 
-    
     public String toString() {
         return ((hour == 12 || hour == 0) ? 12 : hour % 12) +
                 ":" + (minute < 10 ? "0" : "") + minute +
                 ":" + (second < 10 ? "0" : "") + second +
                 (hour < 12 ? " AM" : " PM");
     }
+}
 
-    public class TestTime {
-      public static void main(String[] args) {
-      Time t1 = new Time();
-      Time t2 = new Time(20, 3, 45);
-      t1.setHour(7).setMinute(32).setSecond(23);
-      System.out.println("t1 is " + t1);
-      System.out.println("t2 is " + t2);
-      }
-     }
+class TestTime {
+    public static void main(String[] args) {
+        Time t1 = new Time();
+        Time t2 = new Time(20, 3, 45);
+        t1.setHour(7).setMinute(32).setSecond(23);
+        System.out.println("t1 is " + t1);
+        System.out.println("t2 is " + t2);
+    }
 }
