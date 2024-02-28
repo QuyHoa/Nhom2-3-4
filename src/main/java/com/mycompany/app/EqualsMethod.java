@@ -7,8 +7,8 @@ package com.mycompany.app;
 
 public class EqualsMethod {
     public static void main(String[] args) {
-    Integer integer = Integer.valueOf(47);
-    Integer integer2 = Integer.valueOf(47);
+    Integer integer = Integer.valueOf(48);
+    Integer integer2 = Integer.valueOf(48);
     System.out.println(integer.equals(integer2));
    
     }
