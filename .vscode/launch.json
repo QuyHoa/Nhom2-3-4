@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Recursion",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Recursion",
