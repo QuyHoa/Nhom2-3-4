@@ -3,27 +3,20 @@
         
         {
             "type": "java",
-
-
-            "name": "Ctrl",
+            "name": "Recursion",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week1.Ctrl",
-
-            "name": "While",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week1.While",
-
+            "mainClass": "com.mycompany.app.Week2.Recursion",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "TestTime",
             "request": "launch",
             "mainClass": "com.mycompany.app.TestTime",
-
             "projectName": "my-app"
         },
         {
             "type": "java",
-
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Main",
@@ -37,18 +30,9 @@
             "projectName": "my-app"
         },
        
+        
         {
             "type": "java",
-
-            "name": "TestTime",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.TestTime",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-
-
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",
@@ -57,6 +41,11 @@
         {
 
             "type":"java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "com.While",
+            "projectName": "my-app"
+        },
 
         {
             "type": "java",
