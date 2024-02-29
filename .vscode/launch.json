@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Method",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Method",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "MyClass",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.MyClass",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "While",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.While",
