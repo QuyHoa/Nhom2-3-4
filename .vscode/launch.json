@@ -3,21 +3,27 @@
         
         {
             "type": "java",
-<<<<<<< HEAD
+
 
             "name": "Ctrl",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Ctrl",
-=======
+
             "name": "While",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.While",
->>>>>>> a7e4d441ed126ac8ec8417631bfbca0ea95eea00
+
+        {
+            "type": "java",
+            "name": "TestTime",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.TestTime",
+
             "projectName": "my-app"
         },
         {
             "type": "java",
-<<<<<<< HEAD
+
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Main",
@@ -30,22 +36,10 @@
             "mainClass": "com.mycompany.app.Week1.ctrl",
             "projectName": "my-app"
         },
+       
         {
             "type": "java",
-            "name": "javactrl",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week1.javactrl",
 
-=======
-            "name": "TestTime",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.TestTime",
->>>>>>> a7e4d441ed126ac8ec8417631bfbca0ea95eea00
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-<<<<<<< HEAD
             "name": "TestTime",
             "request": "launch",
             "mainClass": "com.mycompany.app.TestTime",
@@ -53,23 +47,17 @@
         },
         {
             "type": "java",
-=======
->>>>>>> a7e4d441ed126ac8ec8417631bfbca0ea95eea00
+
+
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",
             "projectName": "my-app"
         },
         {
-<<<<<<< HEAD
+
             "type":"java",
-=======
->>>>>>> a7e4d441ed126ac8ec8417631bfbca0ea95eea00
-            "name": "While",
-            "request": "launch",
-            "mainClass": "com.While",
-            "projectName": "my-app"
-        },
+
         {
             "type": "java",
             "name": "Book",
