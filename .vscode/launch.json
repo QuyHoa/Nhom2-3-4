@@ -2,13 +2,7 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Recursion",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.Recursion",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
+
             "name": "TestTime",
             "request": "launch",
             "mainClass": "com.mycompany.app.TestTime",
@@ -22,7 +16,7 @@
             "projectName": "my-app"
         },
         {
-            "type": "java",
+
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
