@@ -15,7 +15,7 @@ public class Recursion {
 
     public static void main(String[] args) {
         Recursion recursion = new Recursion();
-        long number = 5; 
+        long number = 7; 
         recursion.printFactorial(number);
     }
 }
