@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+
             "name": "Ctrl",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Ctrl",
@@ -26,6 +27,7 @@
             "name": "javactrl",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.javactrl",
+
             "projectName": "my-app"
         },
         {
