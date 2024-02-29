@@ -1,11 +1,17 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "NNCollection",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.NNCollection",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "main",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.main",
+            "mainClass": "com.mycompany.app.Week2.main"
         },
         {
             "type": "java",
@@ -42,8 +48,6 @@
             "mainClass": "com.mycompany.app.Week1.ctrl",
             "projectName": "my-app"
         },
-       
-        
         {
             "type": "java",
             "name": "Switch",
@@ -52,14 +56,12 @@
             "projectName": "my-app"
         },
         {
-
-            "type":"java",
+            "type": "java",
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
             "projectName": "my-app"
         },
-
         {
             "type": "java",
             "name": "Book",
