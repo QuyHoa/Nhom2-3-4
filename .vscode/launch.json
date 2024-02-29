@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Classes",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Method",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Method",
