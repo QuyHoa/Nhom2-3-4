@@ -1,10 +1,17 @@
 {
     "configurations": [
+        
         {
             "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.main",
+        },
+        {
+            "type": "java",
+            "name": "Classes",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Classes",
             "projectName": "my-app"
         },
         {
@@ -23,17 +30,36 @@
         },
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ctrl",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.ctrl",
+            "projectName": "my-app"
+        },
+       
+        
+        {
+            "type": "java",
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",
             "projectName": "my-app"
         },
         {
+
+            "type":"java",
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
             "projectName": "my-app"
         },
+
         {
             "type": "java",
             "name": "Book",
