@@ -45,6 +45,7 @@
             "projectName": "my-app"
         },
         {
+            "type":"java",
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
