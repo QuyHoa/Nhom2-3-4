@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
         {
             "type": "java",
             "name": "Classes",
@@ -10,22 +11,9 @@
         {
             "type": "java",
             "name": "Method",
+            "name": "Recursion",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.Method",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "MyClass",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.MyClass",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "While",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week1.While",
+            "mainClass": "com.mycompany.app.Week2.Recursion",
             "projectName": "my-app"
         },
         {
@@ -37,17 +25,36 @@
         },
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ctrl",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.ctrl",
+            "projectName": "my-app"
+        },
+       
+        
+        {
+            "type": "java",
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",
             "projectName": "my-app"
         },
         {
+
+            "type":"java",
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
             "projectName": "my-app"
         },
+
         {
             "type": "java",
             "name": "Book",

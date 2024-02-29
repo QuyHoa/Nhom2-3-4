@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2;
+package com.mycompany.app.Week1;
 
 public class Break {
     int test;
