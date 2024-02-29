@@ -2,27 +2,50 @@
     "configurations": [
         {
             "type": "java",
-
-            "name": "TestTime",
+            "name": "Ctrl",
             "request": "launch",
-            "mainClass": "com.mycompany.app.TestTime",
-
+            "mainClass": "com.mycompany.app.Week1.Ctrl",
             "projectName": "my-app"
         },
         {
             "type": "java",
-
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.Main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ctrl",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.ctrl",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "javactrl",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week1.javactrl",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "TestTime",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.TestTime",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Switch",
             "request": "launch",
             "mainClass": "com.mycompany.app.Switch",
             "projectName": "my-app"
         },
         {
-
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
-
             "projectName": "my-app"
         },
         {
