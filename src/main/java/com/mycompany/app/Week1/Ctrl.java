@@ -13,5 +13,6 @@ public class Ctrl {
         }
         String result = ( k < 8) ? " yes" : "no";
         System.out.println(result);
+        System.out.println("Duyen xinh");
     } 
 }
