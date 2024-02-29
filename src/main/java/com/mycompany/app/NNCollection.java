@@ -34,13 +34,12 @@ public class NNCollection {
     public static void main(String[] args) {
         InnerNNCollection collection = new InnerNNCollection();
 
-        // Inserting NameNumber objects into the collection
         NameNumber nn1 = new NameNumber("John Doe", "0352828699");
         NameNumber nn2 = new NameNumber("Jane Smith", "22010474123");
         collection.insert(nn1);
         collection.insert(nn2);
 
-        // Finding a phone number by last name
+   
         String phoneNumber1 = collection.findNumber("John Doe");
         System.out.println("Phone number for John Doe: " + phoneNumber1);
 
