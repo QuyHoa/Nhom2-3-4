@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.Week1;
 
 public class While {
     public static void main(String[] args) {
