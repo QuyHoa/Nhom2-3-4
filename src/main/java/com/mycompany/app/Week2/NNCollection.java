@@ -1,6 +1,4 @@
-package com.mycompany.app;
-
-import com.mycompany.app.Week2.NameNumber;
+package com.mycompany.app.Week2;
 
 public class NNCollection {
     public static class InnerNNCollection {

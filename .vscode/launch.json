@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NNCollection",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.NNCollection",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Main",
