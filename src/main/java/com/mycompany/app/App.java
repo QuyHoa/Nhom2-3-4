@@ -4,9 +4,11 @@
  *---------------------------------------------------------------------------------------*/
 
 package com.mycompany.app;
+import com.mycompany.app.Week2.testInstance;
 
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello Remote World!");
+        testInstance obj = new testInstance();
     }
 }
