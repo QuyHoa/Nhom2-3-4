@@ -9,6 +9,12 @@
         },
         {
             "type": "java",
+            "name": "Reusingex1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex1",
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx2",
