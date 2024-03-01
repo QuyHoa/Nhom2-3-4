@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx2",
