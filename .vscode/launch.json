@@ -3,6 +3,11 @@
         {
             "type": "java",
 
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.ex2",
+
+
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Main",
@@ -13,10 +18,16 @@
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx3",
 
+
             "projectName": "my-app"
         },
         {
             "type": "java",
+
+            "name": "instance",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.instance",
+
             "name": "Reusingex1",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Reusingex1"
@@ -26,31 +37,50 @@
             "name": "InitializationCleanupEx2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx2",
+
             "projectName": "my-app"
         },
         {
             "type": "java",
+            "name": "AnotherClass",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.AnotherClass",
+
             "name": "InitializationCleanupEx1",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx1",
+
             "projectName": "my-app"
         },
         {
             "type": "java",
+
+            "name": "createdistance",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.createdistance",
+
             "name": "NNCollection",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.NNCollection",
+a
             "projectName": "my-app"
         },
         {
             "type": "java",
+
+            "name": "Packet",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Packet",
+
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Main",
+>
             "projectName": "my-app"
         },
         {
             "type": "java",
+
             "name": "Break",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Break"
@@ -73,6 +103,7 @@
             "name": "Classes",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Classes",
+
             "projectName": "my-app"
         },
         {
