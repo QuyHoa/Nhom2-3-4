@@ -22,10 +22,9 @@ public class NameNumber {
 
 class Main {
     public static void main(String[] args) {
-        // Tạo một đối tượng NameNumber
+   
         NameNumber person = new NameNumber("Nguyen", "123456789");
 
-        // In ra thông tin của đối tượng
         System.out.println("Last Name: " + person.getLastName());
         System.out.println("Telephone Number: " + person.getTelNumber());
     }
