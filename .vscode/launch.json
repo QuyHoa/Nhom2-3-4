@@ -2,10 +2,16 @@
     "configurations": [
         {
             "type": "java",
-
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Reusingex1",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.Reusingex1",
+            "mainClass": "com.mycompany.app.Week2.Reusingex1"
         },
         {
             "type": "java",
