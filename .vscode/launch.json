@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx1",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "NNCollection",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.NNCollection",
