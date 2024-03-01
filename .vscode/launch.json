@@ -2,9 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Main",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Break",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week1.Break",
+            "mainClass": "com.mycompany.app.Week1.Break"
         },
         {
             "type": "java",

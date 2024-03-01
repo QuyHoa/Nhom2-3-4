@@ -20,7 +20,7 @@ public class NameNumber {
     }
 }
 
-class main {
+class Main {
     public static void main(String[] args) {
         // Tạo một đối tượng NameNumber
         NameNumber person = new NameNumber("Nguyen", "123456789");
