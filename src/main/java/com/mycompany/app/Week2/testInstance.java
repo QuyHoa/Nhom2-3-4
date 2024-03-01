@@ -1,11 +1,13 @@
-import com.mycompany.app.Week2.Package;
+import com.mycompany.app.Week2.testPackage;
 
-public class instance {
+public class testInstance {
+    /*
     public static void main(String[] args) {
         // Tạo một thể hiện của lớp Package
-        Package myPackage = new Package();
+        testPackage myPackage = new testPackage();
 
         // Gọi phương thức displayMessage của lớp Package
         myPackage.displayMessage();
     }
+     */
 }
