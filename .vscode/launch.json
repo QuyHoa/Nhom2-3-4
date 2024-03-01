@@ -5,6 +5,12 @@
             "name": "Break",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Break",
+        },
+        {
+            "type": "java",
+            "name": "NNCollection",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.NNCollection",
             "projectName": "my-app"
         },
         {
