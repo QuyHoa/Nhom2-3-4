@@ -8,7 +8,7 @@ public class Classes {
 }
 class MyClass {
     public void displayMessage() {
-        String message = "Xin chào"; 
+        String message = "Nguyet xinh commit"; 
         System.out.println(message);
     }
 }
