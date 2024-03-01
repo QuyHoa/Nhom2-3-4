@@ -1,6 +1,47 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.ex2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "instance",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.instance",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "AnotherClass",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.AnotherClass",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "createdistance",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.createdistance",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Packet",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Packet",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "packet",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.packet",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "Recursion",
@@ -29,8 +70,6 @@
             "mainClass": "com.mycompany.app.Week1.ctrl",
             "projectName": "my-app"
         },
-       
-        
         {
             "type": "java",
             "name": "Switch",
@@ -39,14 +78,12 @@
             "projectName": "my-app"
         },
         {
-
-            "type":"java",
+            "type": "java",
             "name": "While",
             "request": "launch",
             "mainClass": "com.While",
             "projectName": "my-app"
         },
-
         {
             "type": "java",
             "name": "Book",
