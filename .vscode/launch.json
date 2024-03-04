@@ -1,13 +1,15 @@
 {
     "configurations": [
+        
         {
             "type": "java",
-
             "name": "ex2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.ex2",
+        },
 
-
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Main",
@@ -23,11 +25,12 @@
         },
         {
             "type": "java",
-
             "name": "instance",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.instance",
-
+        },
+        {
+            "type": "java",
             "name": "Reusingex1",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Reusingex1"
@@ -45,38 +48,40 @@
             "name": "AnotherClass",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.AnotherClass",
-
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx1",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx1",
-
             "projectName": "my-app"
         },
         {
             "type": "java",
-
             "name": "createdistance",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.createdistance",
-
+        },
+        {
+            "type": "java",
             "name": "NNCollection",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.NNCollection",
-a
             "projectName": "my-app"
         },
         {
             "type": "java",
-
             "name": "Packet",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Packet",
-
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Main",
->
             "projectName": "my-app"
+
         },
         {
             "type": "java",
