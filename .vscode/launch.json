@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reusingex7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "BoardGame",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.BoardGame",
