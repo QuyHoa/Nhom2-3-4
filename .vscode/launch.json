@@ -1,33 +1,36 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Reusingex5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex5",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "ex2",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.ex2",
+            "mainClass": "com.mycompany.app.Week2.ex2"
         },
-
         {
             "type": "java",
             "name": "Main",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Main",
+            "mainClass": "com.mycompany.app.Main"
         },
-        { 
+        {
             "type": "java",
             "name": "InitializationCleanupEx3",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx3",
-
-
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "instance",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.instance",
+            "mainClass": "com.mycompany.app.Week2.instance"
         },
         {
             "type": "java",
@@ -40,14 +43,13 @@
             "name": "InitializationCleanupEx2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx2",
-
             "projectName": "my-app"
         },
         {
             "type": "java",
             "name": "AnotherClass",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.AnotherClass",
+            "mainClass": "com.mycompany.app.Week2.AnotherClass"
         },
         {
             "type": "java",
@@ -60,7 +62,7 @@
             "type": "java",
             "name": "createdistance",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.createdistance",
+            "mainClass": "com.mycompany.app.Week2.createdistance"
         },
         {
             "type": "java",
@@ -73,7 +75,7 @@
             "type": "java",
             "name": "Packet",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.Packet",
+            "mainClass": "com.mycompany.app.Week2.Packet"
         },
         {
             "type": "java",
@@ -81,11 +83,9 @@
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Main",
             "projectName": "my-app"
-
         },
         {
             "type": "java",
-
             "name": "Break",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week1.Break"
@@ -108,7 +108,6 @@
             "name": "Classes",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Classes",
-
             "projectName": "my-app"
         },
         {
