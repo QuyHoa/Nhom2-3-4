@@ -1,5 +1,7 @@
 package com.mycompany.app;
 
+import com.mycompany.app.DerivedClass;
+
 class Reusingex3 {
     public Reusingex3() {
         System.out.println("Reusingex3 constructor");
