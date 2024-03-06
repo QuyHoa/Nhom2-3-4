@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.Week2;
 
 class Engine {
     public void start() {}
