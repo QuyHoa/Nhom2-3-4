@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+
             "name": "Car",
             "request": "launch",
             "mainClass": "com.mycompany.app.Car",
@@ -12,6 +13,12 @@
             "name": "Car",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Car",
+
+            "type":"java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.Main",
+
             "projectName": "my-app"
         },
         {
