@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Myclass",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.Myclass",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "protectedex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.protectedex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "protectedex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.protectedex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.Main",
