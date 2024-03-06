@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reusingex13",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex13",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Rootex10",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Rootex10",
