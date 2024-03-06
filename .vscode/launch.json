@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx13$ExplicitStatic",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx13$ExplicitStatic",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx12$Tank",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx12$Tank",
