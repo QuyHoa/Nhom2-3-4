@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex1Cycle",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Ex1Cycle",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Tricycle",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Tricycle",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.Ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.ex6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "ex5",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.ex5",
