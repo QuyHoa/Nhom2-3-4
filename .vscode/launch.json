@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Car",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Car",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Reusingex13",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Reusingex13",
