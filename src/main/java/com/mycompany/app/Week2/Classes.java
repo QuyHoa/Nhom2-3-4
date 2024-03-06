@@ -1,5 +1,6 @@
 package com.mycompany.app.Week2;
 
+import com.mycompany.app.Week2.test.java.com.mycompany.app.MyClass;
 
 public class Classes {
     public static void main(String[] args) {
