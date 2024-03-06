@@ -2,10 +2,50 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx15$StringArrayExample",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx15$StringArrayExample",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx14",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx14",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx13$ExplicitStatic",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx13$ExplicitStatic",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx12$Tank",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx12$Tank",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx11",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx11"
+        },
+        {
+            "type": "java",
             "name": "Ex1Cycle",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Ex1Cycle",
             "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx7"
         },
         {
             "type": "java",
