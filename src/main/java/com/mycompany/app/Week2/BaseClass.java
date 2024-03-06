@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package com.mycompany.app.Week2;
 class BaseClass {
     public BaseClass(int value) {
         System.out.println("BaseClass constructor called");
