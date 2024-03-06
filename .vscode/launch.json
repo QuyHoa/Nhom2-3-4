@@ -2,9 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx12$Tank",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx12$Tank",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx11",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx11",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx11"
         },
         {
             "type": "java",
@@ -17,7 +24,7 @@
             "type": "java",
             "name": "InitializationCleanupEx7",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx7",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx7"
         },
         {
             "type": "java",
