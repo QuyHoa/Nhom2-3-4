@@ -2,17 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx11",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx11",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx9",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx9",
             "projectName": "my-app"
         },
-
         {
             "type": "java",
             "name": "ex4",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex4",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex4"
         },
         {
             "type": "java",
@@ -39,17 +52,14 @@
             "type": "java",
             "name": "protectedex4",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.protectedex4",
+            "mainClass": "com.mycompany.app.Week2.protectedex4"
         },
-
-
         {
             "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "com.mycompany.app.Main"
         },
-        
         {
             "type": "java",
             "name": "Reusingex13",
