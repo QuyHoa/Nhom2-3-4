@@ -7,13 +7,7 @@
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx15$StringInitializationExample",
             "projectName": "my-app"
         },
-        {
-            "type": "java",
-            "name": "InitializationCleanupEx15$StringArrayExample",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx15$StringArrayExample",
-            "projectName": "my-app"
-        },
+       
         {
             "type": "java",
             "name": "InitializationCleanupEx14",

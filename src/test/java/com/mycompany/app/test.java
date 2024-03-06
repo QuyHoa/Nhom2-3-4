@@ -1,3 +1,4 @@
+package com.mycompany.app.test.java.com.mycompany.app;
 
 import static debug.Debug.debug;
 
