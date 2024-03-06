@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex19",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Ex19",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx16$StringArrayExample",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx16$StringArrayExample",
