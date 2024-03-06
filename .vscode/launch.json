@@ -7,6 +7,91 @@
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx9",
             "projectName": "my-app"
         },
+
+        {
+            "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex4",
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Car",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Myclass",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.Myclass",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "protectedex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.protectedex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "protectedex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.protectedex4",
+        },
+
+
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Main"
+        },
+        
+        {
+            "type": "java",
+            "name": "Reusingex13",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex13",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Rootex10",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Rootex10",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Root",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Root",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusingex7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "BoardGame",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.BoardGame",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Reusingex5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Reusingex5",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "ex2",
