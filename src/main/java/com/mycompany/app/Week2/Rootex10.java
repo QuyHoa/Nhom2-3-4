@@ -1,11 +1,11 @@
 package com.mycompany.app.Week2;
 
-public class Root {
+public class Rootex10 {
     class Component1 {
         public Component1(String message) {
             System.out.println("Component1 constructor called with message: " + message);
         }
-        
+
         @Override
         public String toString() {
             return "Component1";
@@ -16,7 +16,7 @@ public class Root {
         public Component2(int value) {
             System.out.println("Component2 constructor called with value: " + value);
         }
-        
+
         @Override
         public String toString() {
             return "Component2";
@@ -27,7 +27,7 @@ public class Root {
         public Component3(double number) {
             System.out.println("Component3 constructor called with number: " + number);
         }
-        
+
         @Override
         public String toString() {
             return "Component3";
@@ -45,7 +45,6 @@ public class Root {
             component3 = new Component3(number);
             System.out.println("NestedRoot constructor called");
 
-            // Use the component1, component2, and component3 fields
             System.out.println("Component1: " + component1.toString());
             System.out.println("Component2: " + component2.toString());
             System.out.println("Component3: " + component3.toString());
@@ -53,7 +52,7 @@ public class Root {
     }
 
     public static void main(String[] args) {
-        Root root = new Root();
-        root.new NestedRoot("Hello", 42, 3.14);
+        Rootex10 root = new Rootex10();
+        root.new NestedRoot("Hello", 50, 3.14);
     }
 }
