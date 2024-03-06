@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2.test.java.com.mycompany.app;
+package com.mycompany.app.test.java.com.mycompany.app;
 class MyClass {
     protected int protectedData;
 
