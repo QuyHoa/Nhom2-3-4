@@ -1,6 +1,6 @@
-package com.mycompany.app;
+package com.mycompany.app.Week2;
 
-import com.mycompany.app.DerivedClass;
+import com.mycompany.app.Week2.DerivedClass;
 
 class Reusingex3 {
     public Reusingex3() {
