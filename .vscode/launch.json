@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx22",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx22",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx21",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx21",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx20",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx20",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx19",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx19",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx18$MyClass",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx18$MyClass",
