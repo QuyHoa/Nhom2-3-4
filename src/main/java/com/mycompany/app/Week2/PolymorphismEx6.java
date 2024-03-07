@@ -70,7 +70,7 @@ class Woodwind extends Wind {
     }
 }
 
-public class PolymorphismEX6 {
+public class PolymorphismEx6 {
     public static void tune(Instrument i, String note) {
         i.play(note);
     }
