@@ -1,6 +1,4 @@
-import com.mycompany.app.Week2.Circle;
-import com.mycompany.app.Week2.Rectangle;
-import com.mycompany.app.Week2.Shape;
+package com.mycompany.app.Week2;
 
 abstract class Shape {
     abstract double area();
@@ -45,7 +43,7 @@ class Circle extends Shape {
     }
 }
 
-public class Polymorphism {
+class Polymorphism {
     public static void main(String[] args) {
         Shape rectangle = new Rectangle(5, 4);
         Shape circle = new Circle(3);
