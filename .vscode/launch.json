@@ -2,9 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PolymorphismEx6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.PolymorphismEx6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "PolymorphismW3S",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week3.PolymorphismW3S",
+            "mainClass": "com.mycompany.app.Week3.PolymorphismW3S"
         },
         {
             "type": "java",
@@ -13,7 +20,6 @@
             "mainClass": "com.mycompany.app.Week2.PolymorphismEXample7",
             "projectName": "my-app"
         },
-        
         {
             "type": "java",
             "name": "PolymorphismEX6",
