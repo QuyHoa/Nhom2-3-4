@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2.ex5;
+package com.mycompany.app.Week2;
 class MyClass {
     public int publicField;
     private int privateField;
