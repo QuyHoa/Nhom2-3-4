@@ -1,5 +1,6 @@
 {
     "configurations": [
+
         {
             "type": "java",
             "name": "InitializationCleanupEx5",
@@ -103,6 +104,10 @@
             "mainClass": "com.mycompany.app.Polymorphismexample3",
             "projectName": "my-app"
         },
+
+       
+
+
         {
             "type": "java",
             "name": "InitializationCleanupEx22",
@@ -244,7 +249,12 @@
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex6",
             "projectName": "my-app"
         },
+
+        
+        
+
     
+
         {
             "type": "java",
             "name": "ex5",
