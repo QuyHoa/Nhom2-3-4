@@ -1,3 +1,6 @@
+package com.mycompany.app.Week2;
+
+
 class Engine {
     public void start() {}
     public void rev() {}
@@ -22,7 +25,7 @@ class Door {
     public void close() {}
 }
 
-public class Car {
+class Car {
     public Engine engine = new Engine();
     public Wheel[] wheel = new Wheel[4];
     public Door left = new Door();
