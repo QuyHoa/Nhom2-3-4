@@ -5,6 +5,12 @@
             "name": "PolymorphismEx17Page216",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week3.PolymorphismEx17Page216",
+        },
+        {
+            "type": "java",
+            "name": "Page219ex3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Page219ex3",
             "projectName": "my-app"
         },
         {
