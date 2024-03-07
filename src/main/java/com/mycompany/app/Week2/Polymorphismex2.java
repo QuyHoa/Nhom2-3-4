@@ -1,6 +1,4 @@
-import com.mycompany.app.Circle;
-import com.mycompany.app.Rectangle;
-import com.mycompany.app.Shape;
+package com.mycompany.app.Week2;
 
 abstract class Shape {
     abstract double area();
