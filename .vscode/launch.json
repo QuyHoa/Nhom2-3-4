@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ex23",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Ex23",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex19",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Ex19",
