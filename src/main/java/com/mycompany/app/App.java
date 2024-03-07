@@ -4,7 +4,7 @@
  *---------------------------------------------------------------------------------------*/
 package com.mycompany.app;
 
-import com.mycompany.app.Week1.Amphibian3;
+//import com.mycompany.app.Week1.Amphibian3;
 
 
 public class App {
@@ -12,8 +12,8 @@ public class App {
         System.out.println("Hello Remote World!");
        // testInstance obj = new testInstance();
         //test code Amphibian 3
-        Amphibian3 am3 = new Amphibian3();
-        am3.swim();
+       // Amphibian3 am3 = new Amphibian3();
+       // am3.swim();
 
 
 
