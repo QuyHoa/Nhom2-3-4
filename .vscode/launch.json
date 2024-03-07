@@ -2,9 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Polymorphismexample3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Polymorphismexample3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphismexample3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Polymorphismexample3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphismex3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Polymorphismex3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InitializationCleanupEx22",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx22",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx22"
         },
         {
             "type": "java",
@@ -17,7 +38,7 @@
             "type": "java",
             "name": "InitializationCleanupEx21",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx21",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx21"
         },
         {
             "type": "java",
@@ -30,7 +51,7 @@
             "type": "java",
             "name": "InitializationCleanupEx20",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx20",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx20"
         },
         {
             "type": "java",
@@ -57,7 +78,7 @@
             "type": "java",
             "name": "InitializationCleanupEx17$MyClass",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx17$MyClass",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx17$MyClass"
         },
         {
             "type": "java",

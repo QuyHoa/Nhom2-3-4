@@ -1,10 +1,13 @@
-import com.mycompany.app.Circle;
-import com.mycompany.app.Rectangle;
-import com.mycompany.app.Shape;
+package com.mycompany.app;
 
 abstract class Shape {
     abstract double area();
     abstract double perimeter();
+
+    // New method added to the base class
+    void printMessage() {
+        System.out.println("This is a shape.");
+    }
 }
 
 class Rectangle extends Shape {
@@ -43,17 +46,20 @@ class Circle extends Shape {
     double perimeter() {
         return 2 * Math.PI * radius;
     }
+
+    // Override the printMessage() method only in Circle class
+    @Override
+    void printMessage() {
+        System.out.println("This is a circle.");
+    }
 }
 
-public class Polymorphism {
+public class Polymorphismexample3 {
     public static void main(String[] args) {
         Shape rectangle = new Rectangle(5, 4);
         Shape circle = new Circle(3);
 
-        System.out.println("Rectangle area: " + rectangle.area());
-        System.out.println("Rectangle perimeter: " + rectangle.perimeter());
-
-        System.out.println("Circle area: " + circle.area());
-        System.out.println("Circle perimeter: " + circle.perimeter());
+        rectangle.printMessage(); // Output: This is a shape.
+        circle.printMessage();    // Output: This is a circle.
     }
 }
