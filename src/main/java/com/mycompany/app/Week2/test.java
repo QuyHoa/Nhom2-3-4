@@ -1,9 +1,9 @@
-package com.mycompany.app.Week2;
+package com.mycompany.app.test.java.com.mycompany.app;
 
-public class test {
+import static debug.Debug.debug;
 
-    
-
-
-    
+public class Main {
+    public static void main(String[] args) {
+        debug("This is a debug message");
+    }
 }

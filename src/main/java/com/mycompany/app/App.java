@@ -12,8 +12,7 @@ public class App {
         System.out.println("Hello Remote World!");
        // testInstance obj = new testInstance();
         //test code Amphibian 3
-        Amphibian3 am3 = new Amphibian3();
-        am3.swim();
+        
 
 
 

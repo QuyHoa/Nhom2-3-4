@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Music3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Music3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphismexx8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Polymorphismexx8",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Polymorphismex2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Polymorphismex2",
