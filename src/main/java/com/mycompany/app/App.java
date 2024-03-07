@@ -4,8 +4,7 @@
  *---------------------------------------------------------------------------------------*/
 package com.mycompany.app;
 
-//import com.mycompany.app.Week2.testInstance;
-import com.mycompany.app.Week2.Amphibian3;
+import com.mycompany.app.Week1.Amphibian3;
 
 
 public class App {
