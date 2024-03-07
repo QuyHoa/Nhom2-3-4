@@ -1,6 +1,6 @@
 package com.mycompany.app.Week2;
 
-public class MyClass {
+class MyClass {
     protected void myProtectedMethod() {
         System.out.println("This is a protected method");
     }

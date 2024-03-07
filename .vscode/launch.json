@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.ex4",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Trumpet",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Trumpet",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Music3",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Music3",
