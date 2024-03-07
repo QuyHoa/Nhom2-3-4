@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PolymorphismEXample7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.PolymorphismEXample7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismExample7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.PolymorphismExample7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismEX6",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.PolymorphismEX6",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "PolymorphismExam5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.PolymorphismExam5",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Polymorphism",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Polymorphismexample3",
             "request": "launch",
             "mainClass": "com.mycompany.app.Polymorphismexample3",
