@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RodentHierarchy",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.RodentHierarchy",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Music2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Music2",
