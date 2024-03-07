@@ -1,6 +1,6 @@
 
 
- package com.mycompany.app;
+ package com.mycompany.app.Week2;
 
 class Ex23 {
    
