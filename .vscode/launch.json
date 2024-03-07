@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Beetle",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Beetle",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Ex23",
             "request": "launch",
             "mainClass": "com.mycompany.app.Ex23",
