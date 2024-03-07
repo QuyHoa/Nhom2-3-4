@@ -5,6 +5,19 @@
             "name": "InitializationCleanupEx5",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx5",
+        },
+        {
+            "type": "java",
+            "name": "Music3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Music3",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Polymorphismexx8",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Polymorphismexx8",
             "projectName": "my-app"
         },
         {
@@ -271,12 +284,6 @@
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.protectedex4",
             "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "protectedex4",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.protectedex4"
         },
         {
             "type": "java",
