@@ -17,7 +17,7 @@ class MyClass {
     }
 
     private void privateMethod() {
-        System.out.println("This is a private method");
+        System.out.println("This is aprivate method");
     }
 
     protected void protectedMethod() {
