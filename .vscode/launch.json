@@ -1,11 +1,17 @@
 {
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "Page219ex3",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Page219ex3",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "InitializationCleanupEx5",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx5",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx5"
         },
         {
             "type": "java",
@@ -104,10 +110,6 @@
             "mainClass": "com.mycompany.app.Polymorphismexample3",
             "projectName": "my-app"
         },
-
-       
-
-
         {
             "type": "java",
             "name": "InitializationCleanupEx22",
@@ -249,12 +251,6 @@
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex6",
             "projectName": "my-app"
         },
-
-        
-        
-
-    
-
         {
             "type": "java",
             "name": "ex5",
@@ -350,7 +346,6 @@
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.ex2"
         },
-      
         {
             "type": "java",
             "name": "InitializationCleanupEx3",
@@ -456,7 +451,6 @@
             "mainClass": "com.mycompany.app.TestTime",
             "projectName": "my-app"
         },
-      
         {
             "type": "java",
             "name": "ctrl",
