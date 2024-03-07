@@ -1,6 +1,33 @@
 {
     "configurations": [
-        
+
+        {
+            "type": "java",
+            "name": "InitializationCleanupEx5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx5",
+        },
+        {
+            "type": "java",
+            "name": "InheritanceTest",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InheritanceTest",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "RodentHierarchy",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.RodentHierarchy",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Music2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Music2",
+            "projectName": "my-app"
+        },
         {
             "type": "java",
             "name": "ex4",
@@ -58,13 +85,6 @@
         },
         {
             "type": "java",
-            "name": "PolymorphismEX6",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.PolymorphismEX6",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
             "name": "PolymorphismExam5",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.PolymorphismExam5",
@@ -84,7 +104,10 @@
             "mainClass": "com.mycompany.app.Polymorphismexample3",
             "projectName": "my-app"
         },
+
        
+
+
         {
             "type": "java",
             "name": "InitializationCleanupEx22",
@@ -221,20 +244,17 @@
         },
         {
             "type": "java",
-            "name": "Ex6",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.Ex6",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
             "name": "ex6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex6",
             "projectName": "my-app"
         },
+
         
         
+
+    
+
         {
             "type": "java",
             "name": "ex5",
@@ -275,12 +295,6 @@
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.protectedex4",
             "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "protectedex4",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.protectedex4"
         },
         {
             "type": "java",
@@ -336,12 +350,7 @@
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.ex2"
         },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Main"
-        },
+      
         {
             "type": "java",
             "name": "InitializationCleanupEx3",
@@ -447,13 +456,7 @@
             "mainClass": "com.mycompany.app.TestTime",
             "projectName": "my-app"
         },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week1.Main",
-            "projectName": "my-app"
-        },
+      
         {
             "type": "java",
             "name": "ctrl",
