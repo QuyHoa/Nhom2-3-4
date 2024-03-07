@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InitializationCleanupEx5",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.InitializationCleanupEx5",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Polymorphismex2",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Polymorphismex2",
