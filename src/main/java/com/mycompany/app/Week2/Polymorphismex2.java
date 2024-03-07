@@ -1,6 +1,6 @@
-import com.mycompany.app.Circle;
-import com.mycompany.app.Rectangle;
-import com.mycompany.app.Shape;
+import com.mycompany.app.Week2.Circle;
+import com.mycompany.app.Week2.Rectangle;
+import com.mycompany.app.Week2.Shape;
 
 abstract class Shape {
     abstract double area();
