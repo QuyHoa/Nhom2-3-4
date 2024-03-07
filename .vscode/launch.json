@@ -2,9 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AbstractionW3S",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.AbstractionW3S",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "PolymorphismEx17Page216",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week3.PolymorphismEx17Page216",
+            "mainClass": "com.mycompany.app.Week3.PolymorphismEx17Page216"
         },
         {
             "type": "java",
