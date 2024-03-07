@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
         {
             "type": "java",
             "name": "ex4",
@@ -83,13 +84,7 @@
             "mainClass": "com.mycompany.app.Polymorphismexample3",
             "projectName": "my-app"
         },
-        {
-            "type": "java",
-            "name": "Polymorphismex3",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.Polymorphismex3",
-            "projectName": "my-app"
-        },
+       
         {
             "type": "java",
             "name": "InitializationCleanupEx22",
@@ -238,20 +233,8 @@
             "mainClass": "com.mycompany.app.Week2.test.java.com.mycompany.app.ex6",
             "projectName": "my-app"
         },
-        {
-            "type": "java",
-            "name": "ex6",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.test.java.ex6",
-            "projectName": "my-app"
-        },
-        {
-            "type": "java",
-            "name": "ex6",
-            "request": "launch",
-            "mainClass": "com.mycompany.app.Week2.ex6",
-            "projectName": "my-app"
-        },
+        
+        
         {
             "type": "java",
             "name": "ex5",
