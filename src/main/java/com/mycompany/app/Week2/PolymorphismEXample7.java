@@ -23,18 +23,18 @@ class Stringed extends Instrument {
     }
 }
 
-class NewInstrument extends Instrument {
+class Brass extends Instrument {
     public void play() {
-        System.out.println("New instrument is playing");
+        System.out.println("Brass instrument is playing");
     }
 }
 public class PolymorphismEXample7 {
     public static void main(String[] args) {
-        Instrument[] orchestra = new Instrument[4];
+        Instrument[] orchestra = new Instrument[5];
         orchestra[0] = new Wind();
         orchestra[1] = new Percussion();
         orchestra[2] = new Stringed();
-        orchestra[3] = new NewInstrument(); // New instrument added
+        orchestra[3] = new Brass(); // New instrument added
 
         for (Instrument instrument : orchestra) {
             instrument.play();
