@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TestArithmetic",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.TestArithmetic",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "DisruptLecture",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week3.DisruptLecture",
