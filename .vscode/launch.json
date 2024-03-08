@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Page219ex7",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Page219ex7",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "A6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.A6",
