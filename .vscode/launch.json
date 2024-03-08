@@ -2,18 +2,22 @@
     "configurations": [
         {
             "type": "java",
-
+            "name": "DisruptLecture",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.DisruptLecture",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Transmogrify",
             "request": "launch",
-            "mainClass": "com.mycompany.app.Week3.Transmogrify",
+            "mainClass": "com.mycompany.app.Week3.Transmogrify"
         },
-            {
-
-            "type" :"java",
+        {
+            "type": "java",
             "name": "A6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.A6",
-        
             "projectName": "my-app"
         },
         {
