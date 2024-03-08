@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GlyphTest",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.GlyphTest",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "A6",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.A6",
