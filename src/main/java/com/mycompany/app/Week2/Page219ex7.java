@@ -1,5 +1,4 @@
 package com.mycompany.app.Week2;
-package com.mycompany.app.Week2;
 
 interface Rodent {
     void eat();
@@ -42,7 +41,7 @@ class Hamster implements Rodent {
     }
 }
 
-public class Music2 {
+class Music2 {
     public static void main(String[] args) {
         Rodent[] rodents = { new Mouse(), new Gerbil(), new Hamster() };
 
