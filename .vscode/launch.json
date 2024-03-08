@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exercise15",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Exercise15",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Exercise14",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "Page219ex14",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2.Page219ex14",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Methods",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2.Methods",

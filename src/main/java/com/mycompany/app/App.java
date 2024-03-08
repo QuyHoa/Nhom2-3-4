@@ -6,17 +6,15 @@ package com.mycompany.app;
 
 //import com.mycompany.app.Week1.Amphibian3;
 
-
+import com.mycompany.app.Week2.M;
 public class App {
+    
     public static void main(String[] args) {
-        System.out.println("Hello Remote World!");
-       // testInstance obj = new testInstance();
-        //test code Amphibian 3
+        M myObject = new M();
 
+        // Pass the object to each of the methods
+        myObject.method1a();
         
-
-       // Amphibian3 am3 = new Amphibian3();
-       // am3.swim();
 
 
 
