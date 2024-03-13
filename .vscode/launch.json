@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Code2",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.Code2",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
+            "name": "OrchestraExample",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week3.OrchestraExample",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "TestArithmetic",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week3.TestArithmetic",
